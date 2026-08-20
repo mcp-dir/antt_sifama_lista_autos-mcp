@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_antt_sifama_lista_autos.",
+  "servers": {
+    "antt_sifama_lista_autos": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_antt_sifama_lista_autos"
+    }
+  }
+}
